@@ -30,3 +30,14 @@ alert란 알람창을 말합니다. 즉 alert를 작성할 시 알람창이뜨�
 
 (An alert is an alarm window. This means that when you create an alert, 
 the alarm window pops up and the corresponding comment appears.)
+
+
+
+# <ex 8 : array > 
+
+해당 파일은 자바스크립트내에서 배열을 이용해보는 예제를 풀어보았다. 
+
+
+# <ex 9 : function> 
+
+JS에서 function을 사용하는 예제를 풀어보았다. 
