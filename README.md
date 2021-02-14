@@ -41,3 +41,8 @@ the alarm window pops up and the corresponding comment appears.)
 # <ex 9 : function> 
 
 JS에서 function을 사용하는 예제를 풀어보았다. 
+
+
+# <ex 10 : Parameter & Argument
+
+함수를 이용해 더하기를 하는 예제를 풀었다. 
