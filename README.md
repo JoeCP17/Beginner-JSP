@@ -46,3 +46,4 @@ JS에서 function을 사용하는 예제를 풀어보았다.
 # <ex 10 : Parameter & Argument
 
 함수를 이용해 더하기를 하는 예제를 풀었다. 
++ return 함수를 이용해 값을 반환하는 예제도 풀었다. 
