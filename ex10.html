@@ -19,19 +19,32 @@
         two();
         </script>
       </u1>
-      <h2>Parameter & Argument</h2> //매개변수 & 함자 
+      <h2>Parameter & Argument</h2> //매개변수 & 인자
       <script>
         function onePlusOne() {
           document.write(1+1 + '<br>');
         }
+        function sumColorRed(left,right) {
+          document.write('<div style = "color:red">'+(left+right)+ '</div>');
+        }
         onePlusOne();
-        function sum(left , right) {
+        function sum(left , right) {  // 매개변수 입력
           document.write(left+right+'<br>');
         }
-        sum(2,3);
+        sum(2,3); // 인자 입력
+        sumColorRed(2,3);
         sum(3,4);
         </script>
       <h2>Return</h2>
+      <script>
+      function sum2(left,right) {
+        return left + right;
+
+      }
+      document.write(sum2(2,3) + '<br>');
+      document.write('<div style = "color:red">'+ sum2(2,3) + '</div>');
+      document.write('<div style = "font-size:3rem;">' + sum2(2,3) + '</div>');
+      </script>
 
   </body>
 </html>
