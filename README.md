@@ -31,7 +31,9 @@ alert란 알람창을 말합니다. 즉 alert를 작성할 시 알람창이뜨�
 (An alert is an alarm window. This means that when you create an alert, 
 the alarm window pops up and the corresponding comment appears.)
 
+# <ex 3 ~ ex 8> 
 
+반복문 등등 여러가지 JS 언어들 복습 
 
 # <ex 8 : array > 
 
